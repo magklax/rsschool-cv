@@ -1,2 +1,1 @@
-# rsschool-cv
-Task for RS School
+https://magklax.github.io/rsschool-cv/cv
